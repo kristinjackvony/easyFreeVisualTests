@@ -1,0 +1,15 @@
+{
+  "name": "easyfreevisualtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "easyVisualTests"
+  },
+  "author": "Kristin Jackvony",
+  "license": "ISC"
+}
